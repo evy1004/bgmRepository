@@ -6,6 +6,6 @@ public class bb {
 		// TODO Auto-generated method stub
 		System.out.println("뀨");
 		System.out.println("뀨뀨");
-	}
+	}  
 
 }

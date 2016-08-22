@@ -7,4 +7,4 @@ public class cc {
 			System.out.println("이쁘닝"); 
 	}
 
-}
+}  
