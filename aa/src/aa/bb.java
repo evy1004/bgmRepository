@@ -4,8 +4,8 @@ public class bb {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("²ó");
-		System.out.println("²ó²ó");
+		System.out.println("ë€¨");
+		System.out.println("ë€¨ë€¨");
 	}
 
 }
